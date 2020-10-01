@@ -9,3 +9,8 @@
 
 #### Goals
 * Digital layout design for basic electrical components
+##### Gates
+* NAND2
+* NOR2
+* INV
+* XOR2
