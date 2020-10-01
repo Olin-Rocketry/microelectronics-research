@@ -6,6 +6,7 @@
 * http://www.cmosedu.com/jbaker/courses/ee421_ecg621/f20/lec_ee421_ecg621.htm
 * https://www.youtube.com/user/bminch
 * http://www.opencircuitdesign.com/magic/
+* http://swarm.cs.pub.ro/~mbarbulescu/SMPA/CMOS-VLSI-design.pdf
 
 #### Goals
 * Digital layout design for basic electrical components
