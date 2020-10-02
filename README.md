@@ -17,3 +17,6 @@
 * NOR2
 * OR2
 * XOR2
+
+##### Buffer
+![image](standard_cell_images/buffer_extracted.png)
