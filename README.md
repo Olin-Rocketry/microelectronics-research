@@ -12,15 +12,31 @@
 * Digital layout design for basic electrical components
 ##### Gates
 * INV
+
 ![image](standard_cell_images/inverter_extracted.png)
+
 * NAND2
+
 ![image](standard_cell_images/nand_extracted.png)
+
 * AND2
+
 ![image](standard_cell_images/and_extracted.png)
+
 * NOR2
+
 * OR2
+
 * XOR2
+
 ![image](standard_cell_images/xor_extracted.png)
 
 ##### Buffer
+
 ![image](standard_cell_images/buffer_extracted.png)
+
+##### Adders
+
+* Bitwise adder
+
+![image](standard_cell_images/full_adder_extracted.png)
