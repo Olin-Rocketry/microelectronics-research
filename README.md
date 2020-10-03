@@ -25,6 +25,8 @@
 
 * NOR2
 
+![image](standard_cell_images/nor_extracted.png)
+
 * OR2
 
 * XOR2
