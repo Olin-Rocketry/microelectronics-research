@@ -20,6 +20,7 @@
 * NOR2
 * OR2
 * XOR2
+![image](standard_cell_images/xor_extracted.png)
 
 ##### Buffer
 ![image](standard_cell_images/buffer_extracted.png)
