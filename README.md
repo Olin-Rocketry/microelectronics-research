@@ -29,6 +29,8 @@
 
 * OR2
 
+![image](standard_cell_images/or_extracted.png)
+
 * XOR2
 
 ![image](standard_cell_images/xor_extracted.png)
